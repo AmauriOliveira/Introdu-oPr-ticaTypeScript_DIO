@@ -4,6 +4,7 @@
   "description": "Introdução Prática ao TypeScript",
   "main": "index.js",
   "scripts": {
+    "start": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,5 +15,11 @@
     "node"
   ],
   "author": "Amauri Oliveira",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
