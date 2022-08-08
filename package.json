@@ -1,0 +1,18 @@
+{
+  "name": "introducaopraticatypescript",
+  "version": "1.0.0",
+  "description": "Introdução Prática ao TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmauriOliveira/Introdu-oPr-ticaTypeScript_DIO.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Amauri Oliveira",
+  "license": "MIT"
+}
