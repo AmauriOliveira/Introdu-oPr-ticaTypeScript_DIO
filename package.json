@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "lite-server",
-    "watch": "tsc --watch",
+    "dev": "tsc --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
